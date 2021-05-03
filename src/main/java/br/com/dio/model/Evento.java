@@ -52,4 +52,5 @@ public class Evento implements Serializable {
 		this.hora = hora;
 	}
 
+	
 }
